@@ -1,0 +1,4 @@
+node_modules/
+news_data.db
+.env
+*.swp

@@ -1,2 +1,12 @@
 # bsky-hn-bot
-A bsky bot that summarizes the comments for the headlines on the HN frontpage
+
+A bot to summarize the comments on the top links of the HackerNews front page
+
+https://bsky.app/profile/hnews.southla.social
+
+📰 HN Headline
+💬 GPT-4o-mini summary of the comments
+
+----------
+
+
